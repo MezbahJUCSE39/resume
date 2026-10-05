@@ -7,10 +7,10 @@ Explainable AI · Agentic AI & LLMs · Multimodal Clinical & Genomic Data
 
 📍 Miami, FL · ✉️ [mailformezbah@gmail.com](mailto:mailformezbah@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME)
-[![Resume PDF](https://img.shields.io/badge/Resume-PDF-red?style=flat&logo=adobeacrobatreader&logoColor=white)](./Mezbah_Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mezbahul-islam/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=mcbZ5ToAAAAJ&hl=en)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MEZBAHJUCSE39)
+[![Resume PDF](https://img.shields.io/badge/Resume-PDF-red?style=flat&logo=adobeacrobatreader&logoColor=white)](./Mezbah_Resume_Oct_3_2026.pdf)
 
 </div>
 
