@@ -57,7 +57,7 @@ Machine learning researcher with **7+ years** of building end-to-end models in P
 
 | Degree | Institution | Year |
 |---|---|---|
-| **Ph.D., Computer Science** | Florida International University | Expected Dec 2026 |
+| **Ph.D., Computer Science** | Florida International University | Expected April 2027 |
 | M.S., Computer Science & Engineering | Jahangirnagar University | 2014 |
 | B.S., Computer Science & Engineering | Jahangirnagar University | 2013 |
 
